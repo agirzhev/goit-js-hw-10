@@ -20,5 +20,9 @@
   "homepage": "https://github.com/agirzhev/goit-js-hw-10#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.2.5"
   }
 }
